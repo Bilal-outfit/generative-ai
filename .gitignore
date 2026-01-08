@@ -52,5 +52,3 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Output files
-output.json
